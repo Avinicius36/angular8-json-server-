@@ -1,0 +1,69 @@
+{
+  "alunos": [
+    {
+      "nome": "Marcelo Santos",
+      "idade": "25",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nome": "Carlos",
+      "idade": 30
+    },
+    {
+      "id": 3,
+      "nome": "Marcos",
+      "idade": 35
+    },
+    {
+      "id": 4,
+      "nome": "Renata",
+      "idade": 32
+    },
+    {
+      "id": 5,
+      "nome": "Marcela",
+      "idade": 17
+    },
+    {
+      "id": 6,
+      "nome": "Mercia",
+      "idade": 25
+    },
+    {
+      "nome": "Vinicius",
+      "idade": "31",
+      "id": 7
+    },
+    {
+      "nome": "Michael",
+      "idade": "25",
+      "id": 8
+    },
+    {
+      "nome": "marcos",
+      "idade": "15",
+      "id": 9
+    },
+    {
+      "nome": "Marcos",
+      "idade": "15",
+      "id": 10
+    },
+    {
+      "nome": "marcio ",
+      "idade": "13",
+      "id": 13
+    },
+    {
+      "nome": "Antonio",
+      "idade": "56",
+      "id": 14
+    },
+    {
+      "nome": "Carlim",
+      "idade": "28",
+      "id": 15
+    }
+  ]
+}
